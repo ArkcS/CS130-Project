@@ -1,0 +1,22 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+	ignorecase = true
+	precomposeunicode = true
+[remote "origin"]
+	url = http://10.15.29.141/group19/group19.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "proj1"]
+	remote = origin
+	merge = refs/heads/proj1
+[branch "proj2"]
+	remote = origin
+	merge = refs/heads/proj2
+[branch "proj3"]
+	remote = origin
+	merge = refs/heads/proj3
+[branch "proj4"]
+	remote = origin
+	merge = refs/heads/proj4

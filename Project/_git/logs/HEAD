@@ -1,0 +1,9 @@
+0000000000000000000000000000000000000000 b8838623fbb76eb90e866c17052b7911de100745 lihy3 <lihy3@shanghaitech.edu.cn> 1637303344 +0800	clone: from http://10.15.29.141/group19/group19.git
+b8838623fbb76eb90e866c17052b7911de100745 e6185d10383a16de8287fe43ba98793c810b3909 lihy3 <lihy3@shanghaitech.edu.cn> 1637303909 +0800	checkout: moving from proj1 to proj2
+e6185d10383a16de8287fe43ba98793c810b3909 b038701a34549053b5bb28c6fa40a2bf0d7fb4f1 lihy3 <lihy3@shanghaitech.edu.cn> 1638793203 +0800	checkout: moving from proj2 to proj3
+b038701a34549053b5bb28c6fa40a2bf0d7fb4f1 ae036c3efd4accfe3feb2b9a8a6de1a558067c4e lihy3 <lihy3@shanghaitech.edu.cn> 1639030454 +0800	pull origin proj3: Fast-forward
+ae036c3efd4accfe3feb2b9a8a6de1a558067c4e e6185d10383a16de8287fe43ba98793c810b3909 lihy3 <lihy3@shanghaitech.edu.cn> 1639390394 +0800	checkout: moving from proj3 to proj2
+e6185d10383a16de8287fe43ba98793c810b3909 1fe5616620fdc8fe2bb48f061948014d4f09e8c6 lihy3 <lihy3@shanghaitech.edu.cn> 1639832946 +0800	checkout: moving from proj2 to proj4
+1fe5616620fdc8fe2bb48f061948014d4f09e8c6 7dc537d8e7dcf7ad964f569115302de028c8eeeb lihy3 <lihy3@shanghaitech.edu.cn> 1639832952 +0800	pull: Fast-forward
+7dc537d8e7dcf7ad964f569115302de028c8eeeb ad32ffd4b86f1db3b6b131695b2476d3c0ce8a55 lihy3 <lihy3@shanghaitech.edu.cn> 1639888993 +0800	pull: Fast-forward
+ad32ffd4b86f1db3b6b131695b2476d3c0ce8a55 28dba48885441fb6dbd8ba4539b86cbbf30fecd4 lihy3 <lihy3@shanghaitech.edu.cn> 1641212011 +0800	pull: Fast-forward
